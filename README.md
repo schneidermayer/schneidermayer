@@ -1,9 +1,5 @@
 # np im inet
 
-I ship small, sharp tools that make computers feel fast again.
-
-## Projects (the ones that matter)
-
 - 🧲 **[Mac Taskbar](https://mac-taskbar.com)** — taskbar-style productivity for macOS
 - 😶‍🌫️ **[Emoji Picker for macOS](https://inndevs.com/emoji-picker-macos)** — fast, keyboard-first emoji picker
 - 🐈 **[catmd](https://github.com/schneidermayer/catmd)** — `cat`, but Markdown-aware (pretty output, zero drama)
