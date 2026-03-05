@@ -11,7 +11,6 @@
 - 🧦 **proxy-tray-icon** — SOCKS proxy manager for macOS  
   https://github.com/schneidermayer/proxy-tray-icon
 - 🎨 **Eclipse Dark Theme Color Scheme** — IntelliJ plugin with 72k downloads  
-  https://plugins.jetbrains.com/plugin/11055-eclipse-dark-theme-color-scheme  
   https://github.com/schneidermayer/intellij-color-scheme-eclipse-dark-theme
 - 🎛️ **material-datetimepicker-german** — copy-paste datetimepicker, no npm, just works  
   https://github.com/schneidermayer/material-datetimepicker-german
