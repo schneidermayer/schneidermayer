@@ -1,9 +1,9 @@
 # np im inet
 
+- 🥁 **[Hitloom](https://inndevs.com/hitloom/)** — 128-pad sampler with sample editing and MIDI control
 - 🧲 **[Mac Taskbar](https://mac-taskbar.com)** — taskbar-style productivity for macOS
 - 😶‍🌫️ **[Emoji Picker for macOS](https://inndevs.com/emoji-picker-macos)** — fast, keyboard-first emoji picker
 - 🐈 **[catmd](https://github.com/schneidermayer/catmd)** — like `cat`, but with Markdown
-- 🍺 **[homebrew-tap](https://github.com/schneidermayer/homebrew-tap)** — my Homebrew formulas
 - 🧦 **[proxy-tray-icon](https://github.com/schneidermayer/proxy-tray-icon)** — SOCKS proxy manager for macOS
 - ✂️ **[trimmeur](https://github.com/schneidermayer/trimmeur)** — Paste without indentation (useful for Codex – it's like Trimmy)
 - 🎨 **[Eclipse Dark Theme Color Scheme](https://github.com/schneidermayer/intellij-color-scheme-eclipse-dark-theme)** — IntelliJ plugin with 72k downloads
