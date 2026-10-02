@@ -1,6 +1,6 @@
 # np im inet
 
-- 🥁 **[Hitloom](https://inndevs.com/hitloom/)** — An all-in-one MIDI sampler for chopping, shaping and playing your sounds
+- 🥁 **[Hitloom](https://inndevs.com/hitloom/)** — An all-in-one MIDI sampler. Chop, shape and play your sounds. Standalone for macOS · VST3 in development.
 - 🧲 **[Mac Taskbar](https://mac-taskbar.com)** — taskbar-style productivity for macOS
 - 😶‍🌫️ **[Emoji Picker for macOS](https://inndevs.com/emoji-picker-macos)** — fast, keyboard-first emoji picker
 - 🐈 **[catmd](https://github.com/schneidermayer/catmd)** — like `cat`, but with Markdown
