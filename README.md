@@ -1,6 +1,7 @@
 # np im inet
 
 - 🥁 **[Hitloom](https://inndevs.com/hitloom/)** — Standalone / VST sampler for drums and samples with editing, Atlas pitch shifting and much more.
+- 🎛️ **[Mikro MIDI](https://github.com/schneidermayer/mikro-midi)** — free macOS MIDI driver for Maschine Mikro MK3 with configurable pads and controls
 - 🧲 **[Mac Taskbar](https://mac-taskbar.com)** — taskbar-style productivity for macOS
 - 😶‍🌫️ **[Emoji Picker for macOS](https://inndevs.com/emoji-picker-macos)** — fast, keyboard-first emoji picker
 - 🐈 **[catmd](https://github.com/schneidermayer/catmd)** — like `cat`, but with Markdown
