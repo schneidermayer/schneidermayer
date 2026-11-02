@@ -6,7 +6,7 @@
 - 🐈 **[catmd](https://github.com/schneidermayer/catmd)** — like `cat`, but with Markdown
 - 🎛️ **[Mikro MIDI](https://github.com/schneidermayer/mikro-midi)** — free macOS MIDI driver for Maschine Mikro MK3 with configurable pads and controls
 - 🧦 **[proxy-tray-icon](https://github.com/schneidermayer/proxy-tray-icon)** — SOCKS proxy manager for macOS
-- 📊 **[Claude and Codex Usage Viewer](https://github.com/schneidermayer/codex-usage-viewer)** — Native macOS 27 app and widgets for usage limits across one to three Claude or Codex accounts in any mix
+- 📊 **[Claude and Codex Usage Viewer](https://github.com/schneidermayer/claude-and-codex-usage-viewer)** — Native macOS 27 app and widgets for usage limits across one to three Claude or Codex accounts in any mix
 - ✂️ **[trimmeur](https://github.com/schneidermayer/trimmeur)** — Paste without indentation (useful for Codex – it's like Trimmy)
 - 🎨 **[Eclipse Dark Theme Color Scheme](https://github.com/schneidermayer/intellij-color-scheme-eclipse-dark-theme)** — IntelliJ plugin with 72k downloads
 
