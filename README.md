@@ -1,6 +1,6 @@
 # np im inet
 
-- 🥁 **[Hitloom](https://inndevs.com/hitloom/)** — Standalone / VST sampler for drums and samples with editing, Atlas pitch shifting and much more.
+- 🥁 **[ChopFabrik](https://chopfabrik.com)** — Standalone / VST3 / AU sampler for drums and samples with editing, stem separation and much more.
 - 🧲 **[Mac Taskbar](https://mac-taskbar.com)** — taskbar-style productivity for macOS
 - 😶‍🌫️ **[Emoji Picker for macOS](https://inndevs.com/emoji-picker-macos)** — fast, keyboard-first emoji picker
 - 🐈 **[catmd](https://github.com/schneidermayer/catmd)** — like `cat`, but with Markdown
