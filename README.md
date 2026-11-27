@@ -3,6 +3,7 @@
 - 🥁 **[ChopFabrik](https://chopfabrik.com)** — Standalone / VST3 / AU sampler for drums and samples with editing, stem separation and much more.
 - 🧲 **[Mac Taskbar](https://mac-taskbar.com)** — taskbar-style productivity for macOS
 - 😶‍🌫️ **[Emoji Picker for macOS](https://inndevs.com/emoji-picker-macos)** — fast, keyboard-first emoji picker
+- ⏱️ **[RESET](https://inndevs.com/reset/)** — offline abstinence and habit tracker for Android
 - 🐈 **[catmd](https://github.com/schneidermayer/catmd)** — like `cat`, but with Markdown
 - 🎛️ **[Mikro MIDI](https://github.com/schneidermayer/mikro-midi)** — free macOS MIDI driver for Maschine Mikro MK3 with configurable pads and controls
 - 🧦 **[proxy-tray-icon](https://github.com/schneidermayer/proxy-tray-icon)** — SOCKS proxy manager for macOS
