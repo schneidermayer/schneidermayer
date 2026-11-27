@@ -14,6 +14,7 @@
 ## Links
 
 - 🌐 https://schneidermayer.com
+- ✍️ [lp0fire.dev blog](https://lp0fire.dev/)
 - 🧪 https://inndevs.com
 - 💼 https://www.linkedin.com/in/schneidermayer/
 - 🧠 https://stackoverflow.com/users/2292766/hannes-schneidermayer
